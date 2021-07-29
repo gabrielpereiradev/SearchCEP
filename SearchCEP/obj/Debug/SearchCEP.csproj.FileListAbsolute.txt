@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\ConsultarCEPs\obj\Debug\SearchCEP.FormConsultaCEP.resources
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\ConsultarCEPs\obj\Debug\SearchCEP.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\ConsultarCEPs\obj\Debug\SearchCEP.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.FormConsultaCEP.resources
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\bin\Debug\SearchCEP.exe.config
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\bin\Debug\SearchCEP.exe
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\bin\Debug\SearchCEP.pdb
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.Properties.Resources.resources
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.exe
+C:\Users\Gabriel\Documents\github\consultacepwindowsforms\SearchCEP\obj\Debug\SearchCEP.pdb
